@@ -1,0 +1,6 @@
+SystemSettings = {
+    AuthorizedUsers = {
+        DISCORDID = {},
+        PERMISSIONS = {},
+    },
+},
